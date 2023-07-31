@@ -8,6 +8,6 @@ class Call
 	
 	function __construct()
 	{
-		# code...
+		
 	}
 }
